@@ -11,14 +11,6 @@
 ![Screenshot (87)](https://github.com/user-attachments/assets/b4054540-5dfc-4669-93d5-51cad116511b)
 
 
-[![ladunjexa](https://custom-icon-badges.demolab.com/badge/made%20by%20-ladunjexa-556bf2?logo=github&logoColor=white&labelColor=101827)](https://github.com/luadnjexa)
-[![License](https://img.shields.io/github/license/ladunjexa/reactjs18-3d-portfolio?color=dddddd&labelColor=000000)](https://github.com/ladunjexa/reactjs18-3d-portfolio/blob/main/LICENSE)
-[![Top Language](https://img.shields.io/github/languages/top/ladunjexa/reactjs18-3d-portfolio?logo=github&logoColor=%23007ACC&label=TypeScript)](https://www.typescriptlang.org/)
-[![Contributors](https://img.shields.io/github/contributors/ladunjexa/reactjs18-3d-portfolio?style=flat&color=orange&label=Contributors)](https://github.com/ladunjexa/reactjs18-3d-portfolio/graphs/contributors)
-![Release](https://img.shields.io/github/release/ladunjexa/reactjs18-3d-portfolio.svg)
-![PRs](https://img.shields.io/badge/PRs-welcome-ff69b4.svg?style=shields)
-![deployment](https://img.shields.io/github/deployments/ladunjexa/reactjs18-3d-portfolio/Production?logo=vercel&label=Website)
-[![Known Vulnerabilities](https://snyk.io/test/github/ladunjexa/reactjs18-3d-portfolio/badge.svg)](https://snyk.io/test/github/ladunjexa/reactjs18-3d-portfolio)
 
 
 ## 📝 Description
@@ -104,7 +96,7 @@ reactjs18-3d-portfolio/
 ├── tsconfig.node.json
 └── vite.config.js
 ```
-
+</details>
 
 
 ## ✨ Technologies Used
