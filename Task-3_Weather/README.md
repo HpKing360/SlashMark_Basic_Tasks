@@ -32,9 +32,6 @@ This is a Weather Dashboard application designed to provide users with up-to-dat
 
 ![Weather Application](Screenshot.png)
 
-### Links
-
-- Live Site URL : [Weather Application](https://weatheritoo.vercel.app/)
 
 ### Features
 
@@ -87,19 +84,6 @@ These metrics reflect a well-optimized and compliant website.
 
 The Weather Dashboard uses OpenWeatherMap API for fetching weather data.
 
-### Fetching Data
-
-```javascript
-const apiKey = "YOUR_API_KEY";
-const city = "YourCity";
-
-fetch(
-  `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${apiKey}`,
-)
-  .then((response) => response.json())
-  .then((data) => displayWeather(data))
-  .catch((error) => console.error("Error:", error));
-```
 
 ## Installation
 
@@ -116,12 +100,7 @@ Replace your-project-directory with the actual name of your project
 directory, and replace your-api-key-here with your OpenWeatherMap API key.
 
 ```
+![Screenshot (91)](https://github.com/user-attachments/assets/4267cf47-e972-4132-826d-4e74d68fa530)
 
-## License
+![Screenshot (92)](https://github.com/user-attachments/assets/9e287ea2-6b6f-4ad3-9e52-edf501da872c)
 
-This project is open-source and free for non-commercial use. You are allowed to view, modify, and distribute the code for non-commercial purposes. For commercial use or any other inquiries, please contact me.
-No specific license file is provided. If you have questions about using this project, feel free to reach out to me at dev.abdelrahman7@gmail.com
-
-## Author
-
-- <a href="https://www.linkedin.com/in/abdelrahmmaan/" target="_blank">LinkedIn</a>
